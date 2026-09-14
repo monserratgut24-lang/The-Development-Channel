@@ -89,6 +89,12 @@ $$\boxed{y_t=A_t^{1/\alpha}\left(\frac{1-\alpha}{w_t/p_t}\right)^{\frac{1-\alpha
 
 Esta es la expresión a la que llega Ros a partir de la función de producción Cobb-Douglas y de la condición de maximización de beneficios.
 
+## Modelo interactivo
+
+El modelo interactivo correspondiente al capítulo 3 puede consultarse aquí:
+
+[▶ Abrir modelo interactivo](https://monserratgut24-lang.github.io/The-Development-Channel/)
+
 ## Referencia
 
 Ros, J. (2015). *Development Macroeconomics in Latin America and Mexico: Essays on Monetary, Exchange Rate, and Fiscal Policies*. Palgrave Macmillan. Capítulo 3.
